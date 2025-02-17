@@ -35,7 +35,7 @@
 
 ## Tech Stack
 
-- **Framework:** [Next.js 14](https://nextjs.org)
+- **Framework:** [Next.js 15](https://nextjs.org)
 - **Authentication:** [Supabase Auth](https://supabase.com/auth)
 - **Database:** [Supabase PostgreSQL](https://supabase.com/database)
 - **ORM:** [Drizzle ORM](https://orm.drizzle.team)
