@@ -89,9 +89,9 @@ BASIC_PLAN_PRICE_ID=your-basic-plan-price-id
 PRO_PLAN_PRICE_ID=your-pro-plan-price-id
 ```
 
-5. Run database migrations:
+5. Push database migrations:
 ```bash
-npm run db:migrate
+npx drizzle-kit push
 ```
 
 6. Start the development server:
