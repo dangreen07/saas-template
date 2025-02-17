@@ -13,8 +13,9 @@ export const config = {
      * - _next/image (image optimization files)
      * - favicon.ico (favicon file)
      * - images - .svg, .png, .jpg, .jpeg, .gif, .webp
-     * Feel free to modify this pattern to include more paths.
+     * - root/landing page (/)
+     * - auth pages (/sign-in, /sign-up, /forgot-password, /reset-password)
      */
-    "/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)",
+    "/((?!_next/static|_next/image|favicon.ico|sign-in|sign-up|forgot-password|reset-password|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$|^$).*)",
   ],
 };
