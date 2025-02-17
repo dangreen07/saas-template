@@ -28,7 +28,7 @@
   - Webhook handling for subscription updates
 
 - **Modern Tech Stack**
-  - Server Components and Server Actions with Next.js 14
+  - Server Components and Server Actions with Next.js 15
   - Type-safe database queries with Drizzle ORM
   - Beautiful UI with Tailwind CSS and shadcn/ui
   - Dark mode support with next-themes
