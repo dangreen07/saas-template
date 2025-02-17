@@ -15,7 +15,7 @@ export default async function Home() {
             <a href="/sign-up" className="bg-primary text-primary-foreground hover:bg-primary/90 px-6 py-3 rounded-md font-medium">
               Get Started
             </a>
-            <a href="https://github.com" className="bg-secondary text-secondary-foreground hover:bg-secondary/80 px-6 py-3 rounded-md font-medium">
+            <a href="https://github.com/dangreen07/saas-template" className="bg-secondary text-secondary-foreground hover:bg-secondary/80 px-6 py-3 rounded-md font-medium">
               View on GitHub
             </a>
           </div>
